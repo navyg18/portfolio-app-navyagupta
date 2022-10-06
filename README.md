@@ -28,4 +28,6 @@ After clicking on LinkedIn icon, it directly opens the LinkedIn's page.
 ## Github
 ![github](https://user-images.githubusercontent.com/112862379/194361358-4096b64f-15ba-4fb8-96d8-62b787510228.jpg)
 
+## AppIcon
+![appicon](https://user-images.githubusercontent.com/112862379/194362122-3d2528ee-ed30-4e0d-ae4a-6327ed92959f.jpg)
 
