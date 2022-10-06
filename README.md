@@ -1,13 +1,20 @@
-# project1
+# portfolio-app-navyagupta
 
 A new Flutter project.
 
-## Getting Started
+This project consists of two screens: home page and projects page.
 
-This project is a starting point for a Flutter application.
+#E-mail
+After clicking on email icon, it directly opens the gmail app.
 
-A few resources to get you started if this is your first Flutter project:
+#Projects
+After clicking on projects icon, it directly opens the projects page.
 
+#LinkedIn
+After clicking on LinkedIn icon, it directly opens the LinkedIn's page.
+
+#Home Page
+![Home Page]("C:\Users\91966\Desktop\homepage.jpg")
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
